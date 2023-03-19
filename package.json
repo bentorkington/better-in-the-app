@@ -1,0 +1,14 @@
+{
+  "name": "better-in-the-app",
+  "version": "0.0.1",
+  "description": "The first web framework that puts the web second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jank"
+  ],
+  "author": "Ben Torkington <ben@torkington.com>",
+  "license": "ISC"
+}
